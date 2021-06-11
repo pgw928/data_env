@@ -5,5 +5,3 @@
 
 
 #### 1. [Walmart Recruiting Store Sales Forecasing](./kaggle/walmart_recruiting_store_sales_forecasting.ipynb)
-
-# data_env
