@@ -12,6 +12,6 @@
 
 * [크롤링 code](./self/01.py)
 
-#### 4. [모두의 주차장 이용자DB를 활용한 주차앱 향후 이용 건수 예측](./self/team2_onboarding_week2_analysis.ipynb)
+#### 4. [모두의 주차장 이용자DB를 활용한 주차앱 향후 이용 건수 예측](./etc/team2_onboarding_week2_analysis.ipynb)
 
-#### 5. [클로젯셰어DB를 통한 신규 고객 구매 행동 분석 ](./self/team2_onborading_week3_analysis.ipynb)
+#### 5. [클로젯셰어DB를 통한 신규 고객 구매 행동 분석 ](./etc/team2_onborading_week3_analysis.ipynb)
